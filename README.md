@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JerryJin314
+- 👀 I’m interested in PHM,NVH,vibradiagnosis.
+- 🌱 I’m currently learning Signal processing and AI.
